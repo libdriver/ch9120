@@ -1,8 +1,9 @@
 var searchData=
 [
-  ['cfg_5fgpio_5fdeinit_1',['cfg_gpio_deinit',['../structch9120__handle__s.html#aff3aa3dbc5a9418f2e32ee48dd94b627',1,'ch9120_handle_s']]],
-  ['cfg_5fgpio_5finit_2',['cfg_gpio_init',['../structch9120__handle__s.html#a5445edc92e4f3073c043256cc2b6abe3',1,'ch9120_handle_s']]],
-  ['cfg_5fgpio_5fwrite_3',['cfg_gpio_write',['../structch9120__handle__s.html#a1e401eba1e551e7d52941117ee22dd60',1,'ch9120_handle_s']]],
+  ['cfg_5fgpio_5fdeinit_0',['cfg_gpio_deinit',['../structch9120__handle__s.html#aff3aa3dbc5a9418f2e32ee48dd94b627',1,'ch9120_handle_s']]],
+  ['cfg_5fgpio_5finit_1',['cfg_gpio_init',['../structch9120__handle__s.html#a5445edc92e4f3073c043256cc2b6abe3',1,'ch9120_handle_s']]],
+  ['cfg_5fgpio_5fwrite_2',['cfg_gpio_write',['../structch9120__handle__s.html#a1e401eba1e551e7d52941117ee22dd60',1,'ch9120_handle_s']]],
+  ['ch9120_3',['LibDriver CH9120',['../index.html',1,'']]],
   ['ch9120_20base_20driver_20function_4',['ch9120 base driver function',['../group__ch9120__base__driver.html',1,'']]],
   ['ch9120_20driver_20function_5',['ch9120 driver function',['../group__ch9120__driver.html',1,'']]],
   ['ch9120_20example_20driver_20function_6',['ch9120 example driver function',['../group__ch9120__example__driver.html',1,'']]],
@@ -145,6 +146,6 @@ var searchData=
   ['ch9120_5fuart_5ftimeout_5fconvert_5fto_5fdata_143',['ch9120_uart_timeout_convert_to_data',['../group__ch9120__base__driver.html#ga398063423e9bce5f3a1480f3504645fa',1,'ch9120_uart_timeout_convert_to_data(ch9120_handle_t *handle, uint8_t reg, uint16_t *ms):&#160;driver_ch9120.c'],['../group__ch9120__base__driver.html#ga398063423e9bce5f3a1480f3504645fa',1,'ch9120_uart_timeout_convert_to_data(ch9120_handle_t *handle, uint8_t reg, uint16_t *ms):&#160;driver_ch9120.c']]],
   ['ch9120_5fuart_5ftimeout_5fconvert_5fto_5fregister_144',['ch9120_uart_timeout_convert_to_register',['../group__ch9120__base__driver.html#gadbd458835aed0ddc8edcd01452b464c2',1,'ch9120_uart_timeout_convert_to_register(ch9120_handle_t *handle, uint16_t ms, uint8_t *reg):&#160;driver_ch9120.c'],['../group__ch9120__base__driver.html#gadbd458835aed0ddc8edcd01452b464c2',1,'ch9120_uart_timeout_convert_to_register(ch9120_handle_t *handle, uint16_t ms, uint8_t *reg):&#160;driver_ch9120.c']]],
   ['ch9120_5fwrite_145',['ch9120_write',['../group__ch9120__base__driver.html#gaf41a7e0179048154e5167cf085a5e5c2',1,'ch9120_write(ch9120_handle_t *handle, uint8_t *buf, uint16_t len):&#160;driver_ch9120.c'],['../group__ch9120__base__driver.html#gaf41a7e0179048154e5167cf085a5e5c2',1,'ch9120_write(ch9120_handle_t *handle, uint8_t *buf, uint16_t len):&#160;driver_ch9120.c']]],
-  ['chip_5fname_146',['chip_name',['../structch9120__info__s.html#af890958c72bd715cc6454a10dc846ae6',1,'ch9120_info_s']]],
-  ['chip_5fname_147',['CHIP_NAME',['../driver__ch9120_8c.html#adc9da0a24824ca1239b593f6459b3954',1,'driver_ch9120.c']]]
+  ['chip_5fname_146',['CHIP_NAME',['../driver__ch9120_8c.html#adc9da0a24824ca1239b593f6459b3954',1,'driver_ch9120.c']]],
+  ['chip_5fname_147',['chip_name',['../structch9120__info__s.html#af890958c72bd715cc6454a10dc846ae6',1,'ch9120_info_s']]]
 ];
