@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['libdriver_20ch9120_367',['LibDriver CH9120',['../index.html',1,'']]]
+  ['ch9120_0',['LibDriver CH9120',['../index.html',1,'']]]
 ];

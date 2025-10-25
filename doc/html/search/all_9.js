@@ -1,8 +1,7 @@
 var searchData=
 [
-  ['uart_5fdeinit_195',['uart_deinit',['../structch9120__handle__s.html#a57faa7438fdabb6134dabb8b386707a8',1,'ch9120_handle_s']]],
-  ['uart_5fflush_196',['uart_flush',['../structch9120__handle__s.html#a1926b171e2786f52634d78953df6612a',1,'ch9120_handle_s']]],
-  ['uart_5finit_197',['uart_init',['../structch9120__handle__s.html#ad6e221373f53cf56fdeec9c64bbc6423',1,'ch9120_handle_s']]],
-  ['uart_5fread_198',['uart_read',['../structch9120__handle__s.html#a9f6681bb2ac30875d94d016ad0137ab2',1,'ch9120_handle_s']]],
-  ['uart_5fwrite_199',['uart_write',['../structch9120__handle__s.html#a280c8d239a837172fc2fee6eaec7edff',1,'ch9120_handle_s']]]
+  ['supply_5fvoltage_5fmax_0',['SUPPLY_VOLTAGE_MAX',['../driver__ch9120_8c.html#a68eba8b601afe11f1b871d944976c035',1,'driver_ch9120.c']]],
+  ['supply_5fvoltage_5fmax_5fv_1',['supply_voltage_max_v',['../structch9120__info__s.html#a3d2b12bcac7a85ea8646bff9debe8660',1,'ch9120_info_s']]],
+  ['supply_5fvoltage_5fmin_2',['SUPPLY_VOLTAGE_MIN',['../driver__ch9120_8c.html#aac8d8cbd899667d609787ef4cf37054d',1,'driver_ch9120.c']]],
+  ['supply_5fvoltage_5fmin_5fv_3',['supply_voltage_min_v',['../structch9120__info__s.html#ad8bde6ddadaf43d951e62f3befb9d35a',1,'ch9120_info_s']]]
 ];
