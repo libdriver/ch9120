@@ -727,8 +727,8 @@ $(function(){initNavTree('driver__ch9120_8c_source.html','',''); });
 <div class="line"><a id="l00852" name="l00852"></a><span class="lineno">  852</span>    cmd[0] = <a class="code hl_define" href="driver__ch9120_8c.html#a3694cc0c3da3b95338751f899791e3e5">CH9120_CMD_SET_DST_IP</a>;                                  <span class="comment">/* set dest ip */</span></div>
 <div class="line"><a id="l00853" name="l00853"></a><span class="lineno">  853</span>    cmd[1] = ip[0];                                                  <span class="comment">/* set ip[0] */</span></div>
 <div class="line"><a id="l00854" name="l00854"></a><span class="lineno">  854</span>    cmd[2] = ip[1];                                                  <span class="comment">/* set ip[1] */</span></div>
-<div class="line"><a id="l00855" name="l00855"></a><span class="lineno">  855</span>    cmd[3] = ip[2];                                                  <span class="comment">/* set ip[0] */</span></div>
-<div class="line"><a id="l00856" name="l00856"></a><span class="lineno">  856</span>    cmd[4] = ip[3];                                                  <span class="comment">/* set ip[1] */</span></div>
+<div class="line"><a id="l00855" name="l00855"></a><span class="lineno">  855</span>    cmd[3] = ip[2];                                                  <span class="comment">/* set ip[2] */</span></div>
+<div class="line"><a id="l00856" name="l00856"></a><span class="lineno">  856</span>    cmd[4] = ip[3];                                                  <span class="comment">/* set ip[3] */</span></div>
 <div class="line"><a id="l00857" name="l00857"></a><span class="lineno">  857</span>    <span class="keywordflow">if</span> (a_ch9120_write_check(handle, cmd, 5,</div>
 <div class="line"><a id="l00858" name="l00858"></a><span class="lineno">  858</span>                             <a class="code hl_define" href="group__ch9120__base__driver.html#ga6d4f2c3c57c9ca7e64783a56d7d2c93d">CH9120_UART_PRE_DELAY</a>, 1000) != 0)      <span class="comment">/* write dest ip */</span></div>
 <div class="line"><a id="l00859" name="l00859"></a><span class="lineno">  859</span>    {</div>

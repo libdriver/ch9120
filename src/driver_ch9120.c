@@ -852,8 +852,8 @@ uint8_t ch9120_set_dest_ip(ch9120_handle_t *handle, uint8_t ip[4])
     cmd[0] = CH9120_CMD_SET_DST_IP;                                  /* set dest ip */
     cmd[1] = ip[0];                                                  /* set ip[0] */
     cmd[2] = ip[1];                                                  /* set ip[1] */
-    cmd[3] = ip[2];                                                  /* set ip[0] */
-    cmd[4] = ip[3];                                                  /* set ip[1] */
+    cmd[3] = ip[2];                                                  /* set ip[2] */
+    cmd[4] = ip[3];                                                  /* set ip[3] */
     if (a_ch9120_write_check(handle, cmd, 5,
                              CH9120_UART_PRE_DELAY, 1000) != 0)      /* write dest ip */
     {
